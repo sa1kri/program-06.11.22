@@ -14,3 +14,6 @@ def fix(b):
 
 
 print(fix(b))
+
+bdd=sorted(fix(b))
+print(bdd)
