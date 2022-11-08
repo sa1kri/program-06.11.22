@@ -1,0 +1,92 @@
+.html, body {
+    height: 1200px;
+    width: 100%;
+    background-color: rgb(54, 193, 211);
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.bazza {
+    top: 80px;
+    height: 1000px;
+    width: 1000px;
+    background-color: white;
+    border-radius: 2%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+    justify-content: space-between;
+}
+
+.baner {
+    width: 100%;
+    height: 50px;
+}
+
+.fockus {
+    width: 100%;
+    height: 2px;
+    background-color: rgb(54, 193, 211);
+    margin-top: 10px;
+}
+
+.nad__logoo {
+    width: 100%;
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    align-content: center;
+}
+
+.logoo {
+    width: 100px;
+    height: 100px;
+}
+
+.bot__text {
+    margin-right: 20px;
+}
+
+.osnova__bot {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    align-content: center;
+    height: 800px;
+}
+
+.osnova {
+    width: 80%;
+    height: 90%;
+}
+
+.dawlond__css {
+
+}
+
+.knopka_dawlond {
+    width: 250px;
+    height: 80px;
+    border-radius: 14px;
+    background-color: rgb(54, 193, 211);
+    outline-width: 2px;
+    outline-color: black;
+    outline-style: double;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.cnopka_text {
+    font-size: 40px;
+    color: white;
+}
